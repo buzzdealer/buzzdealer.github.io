@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 title: '.htaccess Cheat Sheet '
 subtitle: Useful tips and tricks with htaccess file
 gh-repo: daattali/beautiful-jekyll
