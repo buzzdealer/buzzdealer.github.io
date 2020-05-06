@@ -23,9 +23,15 @@ Curated settings in common use with websites
 ~~~~
 
 
+
+
 ## To Add 
 
+
+
 ### file compressing
+
+
 
 ### http to https redirection with/out www
 
