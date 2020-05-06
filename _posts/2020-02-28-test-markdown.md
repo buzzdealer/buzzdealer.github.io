@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '.htaccess Cheat Sheet '
-subtitle: Each post also has a subtitle
+subtitle: Useful tips and tricks with htaccess file
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
