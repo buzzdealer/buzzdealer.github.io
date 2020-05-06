@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: '.htaccess Cheat Sheet '
 subtitle: Useful tips and tricks with htaccess file
 gh-repo: daattali/beautiful-jekyll
@@ -8,7 +8,8 @@ gh-badge:
   - fork
   - follow
 tags:
-  - test
+  - hosting
+  - apache
 comments: true
 published: true
 ---
