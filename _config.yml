@@ -31,7 +31,7 @@ navbar-links:
   - Learn markdown: https://www.markdowntutorial.com/
   Author's home: https://deanattali.com
 avatar: https://www.ofireyal.bar/8bWVnYS/5.png
-round-avatar: false
+round-avatar: true
 social-network-links:
   email: info@buzzdealer.com
   facebook: deanattali
