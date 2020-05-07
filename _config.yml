@@ -1,6 +1,6 @@
 ---
 title: BuzzDealer Tech Blog
-timezone: America/Vancouver
+timezone: Pacific/Pago_Pago
 collections:
   posts:
     title: Posts
@@ -30,7 +30,7 @@ navbar-links:
   - Beautiful Jekyll: https://beautifuljekyll.com
   - Learn markdown: https://www.markdowntutorial.com/
   Author's home: https://deanattali.com
-avatar: "/assets/img/avatar-icon.png"
+avatar: https://www.ofireyal.bar/8bWVnYS/5.png
 round-avatar: true
 social-network-links:
   email: info@buzzdealer.com
