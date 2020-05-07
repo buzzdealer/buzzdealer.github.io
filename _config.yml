@@ -1,5 +1,5 @@
 ---
-title: BuzzDealer Tech Blog
+title: Real Estate With Ofir Eyal Bar
 timezone: Pacific/Pago_Pago
 collections:
   posts:
@@ -22,14 +22,14 @@ defaults:
   values:
     layout: page
     show-avatar: true
-description: Technical blog of buzzdealer Ltd
+description: 'Real Estate With Ofir Eyal Bar '
 author: Isak
 navbar-links:
   About Me: aboutme
-  Resources:
+  Categories:
   - Beautiful Jekyll: https://beautifuljekyll.com
   - Learn markdown: https://www.markdowntutorial.com/
-  Author's home: https://deanattali.com
+  News: "/"
 avatar: https://www.ofireyal.bar/8bWVnYS/5.png
 round-avatar: true
 social-network-links:
