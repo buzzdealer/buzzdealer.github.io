@@ -1,17 +1,17 @@
 ---
+title: ".htaccess Cheat Sheet "
+date: 2020-02-28 00:00:00 -08:00
+tags:
+- hosting
+- apache
 layout: post
-title: '.htaccess Cheat Sheet '
 subtitle: Useful tips and tricks with htaccess file
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
-  - star
-  - fork
-  - follow
-tags:
-  - hosting
-  - apache
+- star
+- fork
+- follow
 comments: true
-published: true
 ---
 
 Curated settings in common use with websites 

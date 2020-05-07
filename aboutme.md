@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Buzzdealer
+layout: page
 subtitle: Buzzdealer
 ---
 
