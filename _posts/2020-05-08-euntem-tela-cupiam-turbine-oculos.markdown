@@ -9,7 +9,7 @@ excerpt: |-
   Latona ubi remansit nostro vulnera pinguesque. Tardus Phineus viridesque
   mirantur parva manes, **ille** fuerat populi fregit virginei in, non. Talia quod
   est corpus praesepe.
-image: https://www.shinyapps.io/images/static-hero.png
+image: "/uploads/slider1.png"
 ---
 
 # Flores geminata templum inhaeret cingitur
