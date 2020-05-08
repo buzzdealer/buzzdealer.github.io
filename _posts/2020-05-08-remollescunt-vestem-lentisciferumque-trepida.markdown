@@ -10,7 +10,7 @@ excerpt: |-
   littera vetus ferax colunt: non ego. Haerentem Cephesidas cum per flammaeque
   Sperchionidenque propior crinibus; quare ingemuit, de. Metuitque ferri
   adloquitur nomen; addit de ambit veteris fugit. Hastis angue; alta nautae?
-image: "/uploads/slider1.png"
+image: "/uploads/noun_1098396.png"
 ---
 
 # Nec ab melior atque debellata obscuram quam
