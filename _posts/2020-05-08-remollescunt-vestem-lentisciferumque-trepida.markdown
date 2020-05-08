@@ -1,6 +1,9 @@
 ---
 title: remollescunt vestem lentisciferumque trepida
 date: 2020-05-08 05:44:00 -11:00
+tags:
+- Hector
+- vestem
 ---
 
 # Nec ab melior atque debellata obscuram quam
