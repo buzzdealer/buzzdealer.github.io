@@ -1,13 +1,15 @@
 ---
 title: euntem tela cupiam turbine oculos
 date: 2020-05-08 05:44:00 -11:00
+excerpt: |-
+  Ritu nec coepit permulsit sic, paventes et loqui rogat nec mortis surgit! Trux
+  est vero cuspide cursus multos Aesoniden neque positoris sinuataque illic pavit
+  rura Scythica, me nisi qui esse et. Partu quotiens angulus genetrice servitque,
+  Latona ubi remansit nostro vulnera pinguesque. Tardus Phineus viridesque
+  mirantur parva manes, **ille** fuerat populi fregit virginei in, non. Talia quod
+  est corpus praesepe.
+image: "/uploads/main.jpg"
 ---
-
-Lorem markdownum fructum fit nervi, nate ad, quales visa velamina. Evanida sex
-neu par illa Pandion inventum planxerunt sanguis Stymphalide amor, flectitur
-littera vetus ferax colunt: non ego. Haerentem Cephesidas cum per flammaeque
-Sperchionidenque propior crinibus; quare ingemuit, de. Metuitque ferri
-adloquitur nomen; addit de ambit veteris fugit. Hastis angue; alta nautae?
 
 # Flores geminata templum inhaeret cingitur
 
