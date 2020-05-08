@@ -5,7 +5,7 @@ tags:
 - porrigitur
 - Hector
 comments: true
-subtitle: Useful tips and tricks with htaccess file
+subtitle: HectorHector
 layout: post
 ---
 
