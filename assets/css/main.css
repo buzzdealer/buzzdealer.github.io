@@ -344,7 +344,9 @@ img {
   {% endunless %}
   display: block;
 }
-
+.avatar-img-border {
+   margin-top: 30px;
+}
 .navbar-custom.top-nav-expanded .avatar-container {
   display: none;
 }
