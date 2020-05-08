@@ -1,6 +1,7 @@
 ---
 title: euntem tela cupiam turbine oculos
 date: 2020-05-08 05:44:00 -11:00
+show-avatar: false
 excerpt: |-
   Ritu nec coepit permulsit sic, paventes et loqui rogat nec mortis surgit! Trux
   est vero cuspide cursus multos Aesoniden neque positoris sinuataque illic pavit
