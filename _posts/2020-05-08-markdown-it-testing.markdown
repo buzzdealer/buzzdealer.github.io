@@ -1,6 +1,12 @@
 ---
 title: Markdown It testing
 date: 2020-05-08 05:42:00 -11:00
+excerpt: |-
+  m per flammaeque Sperchionidenque propior crinibus; quare ingemuit, de. Metuitque ferri
+  adloquitur nomen; addit de ambit veteris fugit. Hastis angue; alta nautae?Lorem markdownum fructum fit nervi, nate ad, quales visa velamina. Evanida sex
+  neu par illa Pandion inventum planxerunt sanguis Stymphalide amor, flectitur
+  littera vetus ferax colunt: non ego. Haerentem Cephesidas cu
+image: "/uploads/noun_591323.png"
 ---
 
 ---
