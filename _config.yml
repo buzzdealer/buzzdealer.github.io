@@ -44,7 +44,7 @@ share-links-active:
   linkedin: true
 url-pretty: Buzzdealer.com
 link-tags: true
-excerpt_length: 50
+excerpt_length: 100
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
