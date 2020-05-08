@@ -4,6 +4,13 @@ date: 2020-05-08 05:44:00 -11:00
 tags:
 - Hector
 - vestem
+excerpt: |-
+  Lorem markdownum fructum fit nervi, nate ad, quales visa velamina. Evanida sex
+  neu par illa Pandion inventum planxerunt sanguis Stymphalide amor, flectitur
+  littera vetus ferax colunt: non ego. Haerentem Cephesidas cum per flammaeque
+  Sperchionidenque propior crinibus; quare ingemuit, de. Metuitque ferri
+  adloquitur nomen; addit de ambit veteris fugit. Hastis angue; alta nautae?
+image: "/uploads/slider1.png"
 ---
 
 # Nec ab melior atque debellata obscuram quam
