@@ -147,9 +147,11 @@ img {
 
 .navbar-custom .navbar-brand {
   line-height: 1.5;
-  padding-top: 0.625rem;
-  padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  padding-top: 0.325rem;
+  padding-bottom: 0.325rem;
+  font-size: 1.725rem;
+  font-family: 'Shrikhand', cursive;
+  
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -228,6 +230,9 @@ img {
     padding-bottom: 1.25rem;
   }
 
+  .navbar-custom .navbar-brand{
+    letter-spacing: 1px;
+  }
   .navbar-custom .navbar-brand-logo {
     padding-top: 0;
     padding-bottom: 0;
@@ -916,3 +921,23 @@ pre {
   font-style: italic;
   font-size: 1rem;
 }
+
+#datacamp-course-section {
+    text-align: center;
+    background: #fafafa;
+    border: 1px solid #ddd;
+    padding: 10px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    box-shadow: 0 0 7px rgba(100,100,100,0.3);
+    -webkit-box-shadow: 0 0 7px rgba(100,100,100,0.3);
+    -moz-box-shadow: 0 0 7px rgba(100,100,100,0.3);
+  } 
+  #datacamp-course-section .email {
+    padding: .3rem;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    border-radius: .3rem;
+  }
