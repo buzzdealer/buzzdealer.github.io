@@ -4,6 +4,7 @@ date: 2020-05-08 05:43:00 -11:00
 tags:
 - sparte
 - Hector
+social-share: false
 readtime: true
 image: "/uploads/noun_327190.png"
 excerpt: |-
