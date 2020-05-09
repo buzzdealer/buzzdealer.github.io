@@ -30,7 +30,7 @@ navbar-links:
   - Beautiful Jekyll: https://beautifuljekyll.com
   - Learn markdown: https://www.markdowntutorial.com/
   News: "/"
-avatar: https://www.ofireyal.bar/8bWVnYS/5.png
+avatar: "/uploads/5.png"
 round-avatar: true
 social-network-links:
   email: info@buzzdealer.com
