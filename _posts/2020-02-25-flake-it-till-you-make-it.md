@@ -1,6 +1,6 @@
 ---
 title: Flake it till you make it
-date: 2020-02-26 00:00:00 -08:00
+date: 2020-02-25 21:00:00 -11:00
 tags:
 - books
 - test
