@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Buzzdealer
+subtitle: About Me
 layout: page
 ---
 
