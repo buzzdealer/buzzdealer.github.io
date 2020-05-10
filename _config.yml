@@ -22,21 +22,21 @@ defaults:
   values:
     layout: page
     show-avatar: true
-description: 'Real Estate With Ofir Eyal Bar'
-author: Ofir Eyal Bar 
+description: Real Estate With Ofir Eyal Bar
+author: Ofir Eyal Bar
 navbar-links:
-  About Me: /aboutme
-  Blog: /blog
+  About Me: "/aboutme"
+  Blog: "/blog"
   News: "/"
 avatar: "/uploads/5.png"
 round-avatar: true
 social-network-links:
   email: info@buzzdealer.com
   facebook: 
-  twitter: "ofireyalbar"
-  youtube: "channel/UCJ3SuUW3IsRzJu4x2SBk2yw"
-  instagram: "ofireyalbar"
-  pinterest: "ofireyalbar"
+  twitter: ofireyalbar
+  youtube: channel/UCJ3SuUW3IsRzJu4x2SBk2yw
+  instagram: ofireyalbar
+  pinterest: ofireyalbar
   rss: true
 share-links-active:
   twitter: true
