@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     layout: post
-    comments: true
+    comments: false
     social-share: true
     readtime: false
 - scope:
@@ -22,21 +22,21 @@ defaults:
   values:
     layout: page
     show-avatar: true
-description: 'Real Estate With Ofir Eyal Bar '
-author: Isak
+description: 'Real Estate With Ofir Eyal Bar'
+author: Ofir Eyal Bar 
 navbar-links:
-  About Me: aboutme
-  Categories:
-  - Beautiful Jekyll: https://beautifuljekyll.com
-  - Learn markdown: https://www.markdowntutorial.com/
+  About Me: /aboutme
+  Blog: /blog
   News: "/"
-avatar: https://www.ofireyal.bar/8bWVnYS/5.png
+avatar: /uploads/5.png
 round-avatar: true
 social-network-links:
   email: info@buzzdealer.com
-  facebook: " "
-  github: " "
-  twitter: " "
+  facebook: 
+  twitter: "ofireyalbar"
+  youtube: "channel/UCJ3SuUW3IsRzJu4x2SBk2yw"
+  instagram: "ofireyalbar"
+  pinterest: "ofireyalbar"
   rss: true
 share-links-active:
   twitter: true
@@ -60,6 +60,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: "/:year-:month-:day-:title/"
 paginate: 5
+newsletter: false
 kramdown:
   input: GFM
 exclude:
