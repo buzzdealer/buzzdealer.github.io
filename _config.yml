@@ -28,7 +28,7 @@ navbar-links:
   About Me: /aboutme
   Blog: /blog
   News: "/"
-avatar: /uploads/5.png
+avatar: "/uploads/5.png"
 round-avatar: true
 social-network-links:
   email: info@buzzdealer.com

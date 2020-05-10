@@ -1,7 +1,7 @@
 ---
-title: Buzzdealer
+title: About Me
+subtitle: About Me
 layout: page
-subtitle: Buzzdealer
 ---
 
 My name is Inigo Montoya. I have the following qualities:
