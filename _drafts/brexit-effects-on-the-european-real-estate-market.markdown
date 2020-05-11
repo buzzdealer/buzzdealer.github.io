@@ -7,7 +7,7 @@ Following the UK’s decision to leave the European Union back in 2016, European
 
 ### The Brexit situation 
 
-It took more than three years until British politics managed to find common ground and in December 2019, Boris Johnson had managed to obtain a solid majority in the Parliament. As a result, the Withdrawal Agreement with the EU had been passed and since January 31st, the[ UK is no longer an EU member](https://www.google.com/search?q=brexit+bbd&oq=brexit+bbd&aqs=chrome..69i57j0l3j46j0l3.10783j1j7&sourceid=chrome&ie=UTF-8). Although uncertainties had been high since the 2016 referendum, some European real estate markets had been favored.
+It took more than three years until British politics managed to find common ground and in December 2019, Boris Johnson had managed to obtain a solid majority in the Parliament. As a result, the Withdrawal Agreement with the EU had been passed and since January 31st, the [UK is no longer an EU member](www.bbc.com/news/uk-politics-46393399). Although uncertainties had been high since the 2016 referendum, some European real estate markets had been favored.
 London had been severely hit and as a result, Paris had become one of the top destinations for real estate investors. Big cities like Berlin, Lisbon, Madrid, and Rome had been other attractive places for big investments since investors had wanted to move away from any potential risks. With the likelihood of the UK leaving the EU without a deal present, and with great economic consequences if that would have happened, London had lost its top real estate spot. Prices started to top and drop in some cities, proving the pressure was mounting and high valuations were no longer sustainable.
 
 ### The calm before the storm?
