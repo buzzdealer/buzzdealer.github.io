@@ -1,6 +1,8 @@
 ---
 title: So who are you, Ofir Eyal Bar?
 date: 2019-10-02 03:00:00 -11:00
+permalink: "/about"
+layout: page
 ---
 
 
