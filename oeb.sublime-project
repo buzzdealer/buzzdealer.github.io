@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "settings":{
+        "tab_size": 28,
+        "font_size": 15,
+        "Jekyll":
+        {
+            "jekyll_posts_path": "/Users/ransamet/Sites/buzzdealer.github.io/_posts",
+            "jekyll_drafts_path": "/Users/ransamet/Sites/buzzdealer.github.io/_drafts",
+            "jekyll_uploads_path": "/Users/ransamet/Sites/buzzdealer.github.io/assests/uploads",
+            "jekyll_auto_find_paths": true
+        }                          
+    }
+}

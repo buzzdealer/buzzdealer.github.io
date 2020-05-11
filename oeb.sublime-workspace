@@ -1,0 +1,677 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"country",
+				"countryiso"
+			],
+			[
+				"dial",
+				"dialCode"
+			],
+			[
+				"alexa_se",
+				"alexa_selected_rank_col"
+			],
+			[
+				"alexa_selected_",
+				"alexa_selected_country_col"
+			],
+			[
+				"alexaS",
+				"alexaSelected"
+			],
+			[
+				"alexa",
+				"alexaLocal"
+			],
+			[
+				"vali",
+				"validate_form"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"local",
+				"localCountryCode"
+			],
+			[
+				"domain",
+				"domain_name"
+			],
+			[
+				"ale",
+				"alexa_gr_col"
+			],
+			[
+				"dom",
+				"domain_name"
+			],
+			[
+				"col",
+				"col_head"
+			],
+			[
+				"sem",
+				"semrushParams"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"ta",
+				"target_type"
+			],
+			[
+				"TYP",
+				"target_type"
+			],
+			[
+				"coun",
+				"countryCode"
+			],
+			[
+				"url_",
+				"url_bo"
+			],
+			[
+				"url",
+				"url_or"
+			],
+			[
+				"doma",
+				"domainName"
+			],
+			[
+				"live",
+				"live_col"
+			],
+			[
+				"esl",
+				"elsif\telsif ..."
+			],
+			[
+				"site",
+				"site_status"
+			],
+			[
+				"start",
+				"start_row"
+			],
+			[
+				"ssl",
+				"ssl_col"
+			],
+			[
+				"li",
+				"live_col"
+			],
+			[
+				"get",
+				"getIpAddress"
+			],
+			[
+				"ip",
+				"ip_col"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"has",
+				"has_ssl"
+			],
+			[
+				"https",
+				"https"
+			],
+			[
+				"doam",
+				"domain_name"
+			],
+			[
+				"redir",
+				"redirect_url"
+			],
+			[
+				"do",
+				"domain_name"
+			],
+			[
+				"domanin",
+				"domain_name"
+			],
+			[
+				"d",
+				"domain_name"
+			],
+			[
+				"da",
+				"da_col"
+			],
+			[
+				"al",
+				"alexa_col"
+			],
+			[
+				"end",
+				"end_row"
+			],
+			[
+				"star",
+				"start_row"
+			],
+			[
+				"w_",
+				"w_al_column"
+			],
+			[
+				"aw",
+				"awis_key"
+			],
+			[
+				"awis",
+				"awis_url"
+			],
+			[
+				"ahre",
+				"ahrefs"
+			],
+			[
+				"check",
+				"check_url_online"
+			],
+			[
+				"chec",
+				"check_url_online"
+			],
+			[
+				"ch",
+				"check_url_online"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"permit",
+				"permit_params"
+			],
+			[
+				"lo",
+				"logged_in"
+			],
+			[
+				"mic",
+				"microposts"
+			],
+			[
+				"asser",
+				"assert_select"
+			],
+			[
+				"i",
+				"i_phone"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"i_",
+				"i_last"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aboutme.md",
+			"settings":
+			{
+				"buffer_size": 422,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "oeb.sublime-project",
+			"settings":
+			{
+				"buffer_size": 490,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"jek",
+				"Jekyll: New post"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sea",
+				"Package Control: Discover Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ransamet/Sites/buzzdealer.github.io"
+	],
+	"file_history":
+	[
+		"/Users/ransamet/Sites/buzzdealer.github.io/.sublime-project",
+		"/Users/ransamet/Sites/buzzdealer.github.io/assets/css/main.css",
+		"/Users/ransamet/buzzsys/BS_0.002/app/models/site.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/admin/sites.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/db/schema.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/models/linkbuilder.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/admin/linkbuilders.rb",
+		"/Users/ransamet/Sites/multiassetsbrokers/_layouts/privacy.html",
+		"/Users/ransamet/Sites/multiassetsbrokers/_includes/footer.html",
+		"/Users/ransamet/Sites/multiassetsbrokers/_layouts/default.html",
+		"/Users/ransamet/Sites/multiassetsbrokers/_config.yml",
+		"/Users/ransamet/Sites/multiassetsbrokers/index.html",
+		"/Users/ransamet/Sites/multiassetsbrokers/_includes/header.html",
+		"/Users/ransamet/Sites/multiassetsbrokers/_includes/head.html",
+		"/Users/ransamet/Sites/multiassetsbrokers/sitemap.xml",
+		"/Users/ransamet/Sites/multiassetsbrokers/_reviews/instaforex-review.markdown",
+		"/Users/ransamet/Sites/multiassetsbrokers/_reviews/cmc-markets.markdown",
+		"/Users/ransamet/Sites/multiassetsbrokers/_reviews/saxo-bank-review.markdown",
+		"/Users/ransamet/Sites/multiassetsbrokers 2/index.html",
+		"/Users/ransamet/Sites/multiassetsbrokers 2/_layouts/default.html",
+		"/Users/ransamet/Sites/business-frontpage/_data/menu.yml",
+		"/Users/ransamet/Sites/business-frontpage/_reviews/ig-index.markdown",
+		"/Users/ransamet/Sites/business-frontpage/_reviews/instaforex-review.markdown",
+		"/Users/ransamet/Sites/business-frontpage/_includes/header.html",
+		"/Users/ransamet/Sites/business-frontpage/assets/css/main.scss",
+		"/Users/ransamet/Sites/business-frontpage/assets/css/_sass/custom.scss",
+		"/Users/ransamet/Sites/business-frontpage/index.html",
+		"/Users/ransamet/Sites/business-frontpage/_layouts/default.html",
+		"/Users/ransamet/Sites/business-frontpage/_config.yml",
+		"/Users/ransamet/Sites/business-frontpage/_site/assets/css/main.css",
+		"/Users/ransamet/Sites/multiassetsbrokers/_reviews/ig-index.markdown",
+		"/Users/ransamet/Sites/multiassetsbrokers/_layouts/post.html",
+		"/Users/ransamet/Sites/multiassetsbrokers/_reviews/trade-dot-com-review.markdown",
+		"/Users/ransamet/Sites/multiassetsbrokers/_site/feed.xml",
+		"/Users/ransamet/Sites/multiassetsbrokers/robots.txt",
+		"/Users/ransamet/Sites/multiassetsbrokers/schema_example_form_brokerchooser.js",
+		"/Users/ransamet/Sites/multiassetsbrokers/_sass/_layout.scss",
+		"/Users/ransamet/Sites/multiassetsbrokers/_reviews/test-review.markdown",
+		"/Users/ransamet/buzzsys/mega_files.md",
+		"/Users/ransamet/buzzsys/megaFileScripts/config.json",
+		"/Users/ransamet/Local Sites/rantest/_posts/2020-02-13-welcome-to-jekyll2.markdown",
+		"/Users/ransamet/Local Sites/rantest/Gemfile",
+		"/Users/ransamet/Local Sites/rantest/_config.yml",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/jekyll-exporter/jekyll-export-cli.php",
+		"/Users/ransamet/Local Sites/testJekyll2/_config.yml",
+		"/Users/ransamet/Local Sites/testJekyll2/Gemfile",
+		"/Users/ransamet/buzzsys/megaFileScripts/todo.md",
+		"/Users/ransamet/buzzsys/megaFileScripts/params.json",
+		"/Users/ransamet/buzzsys/megaFileScripts/instructions.md",
+		"/Users/ransamet/buzzsys/megaFileScripts/gsheetupdator.rb",
+		"/Users/ransamet/buzzsys/megaFileScripts/run.rb",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/layouts/partials/nav.html",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/content/review/_index.md",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/static/admin/config.yml",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/config.toml",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/content/post/brewing-chemex.md",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/layouts/post/single.html",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/layouts/partials/contact-form.html",
+		"/Users/ransamet/Local Sites/hugo-test-site/site/layouts/partials/head.html",
+		"/Users/ransamet/Local Sites/coinfinancercom/app/public/wp-content/plugins/forex-broker-plugin/includes/broker-post-type.php",
+		"/Users/ransamet/Local Sites/coinfinancercom/app/public/wp-content/plugins/forex-broker-plugin/includes/plugin-setup.php",
+		"/Users/ransamet/Downloads/verification-check.php",
+		"/Users/ransamet/Downloads/update_phone2.php",
+		"/Users/ransamet/Downloads/cryptoEchangersForm_description.md",
+		"/Users/ransamet/Downloads/nicecountryinput.js",
+		"/Users/ransamet/Downloads/KnowYourCustomer.class.php",
+		"/Users/ransamet/Downloads/update_phone.php",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/buzz-form/js/main.js",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/buzz-form/buzz_form.class.php",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/buzz-form/form.html",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/buzz-form/css/intlTelInput.css",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/buzz-form/css/niceCountryInput.css",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/buzz-form/js/intlTelInput.js",
+		"/Users/ransamet/Local Sites/cryptofrontlinecom/app/public/wp-content/plugins/buzz-form/js/utils.js",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/buzz-form/index.html",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/buzz-form/css/style_1.css",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/buzz-form/buzz_form.class.php",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/hello-dolly/js/main.js",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/hello-dolly/css/intlTelInput.css",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/hello-dolly/css/style.css",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/hello-dolly/buzz_form.class.php",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/hello-dolly/hello.php",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/hello-dolly/css/niceCountryInput.css",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/hello-dolly/js/oldnicecountryinput.js",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/cryptocurrency-prices/cryptocurrency-prices.php",
+		"/Users/ransamet/Local Sites/formtest/app/public/wp-content/plugins/index.php",
+		"/Users/ransamet/buzzsys/BS_0.002/gsheetupdator_seo2.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/MOZ_ACCOUNTS",
+		"/Users/ransamet/buzzsys/BS_0.002/test.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/cryptox.csv",
+		"/Users/ransamet/buzzsys/BS_0.002/gsheetupdator_connection.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/gsheetupdator_ip2country.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/Gemfile",
+		"/Users/ransamet/buzzsys/BS_0.002/gsheetupdator_seoparams.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/config.json",
+		"/Users/ransamet/buzzsys/BS_0.002/gsheetupdator_recheck_live.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/Gemfile.lock",
+		"/Users/ransamet/buzzsys/BS_0.002/db/migrate/20191120202908_create_tags_sites.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/db/migrate/20191120202442_create_tags.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/db/migrate/20190412074121_create_categories_sites.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/admin/tags.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/admin/categories.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/models/category.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/models/tag.rb",
+		"/Users/ransamet/buzzsys/buzzSys_v0.1/Gemfile",
+		"/Users/ransamet/Downloads/redirection-binaryoptionszone-net-october-28-2019.json",
+		"/Users/ransamet/Downloads/backup_2709_v1/i3367488_wp5.sql",
+		"/Users/ransamet/Downloads/backup_2709_v1/wp-content/updraft/backup_2019-09-23-1824_CryptoVevo_fc787cff76e2-uploads.zip",
+		"/Users/ransamet/Downloads/backup_2709_v1/wp-admin/includes/post.php",
+		"/Users/ransamet/Downloads/redux_options_herald_settings_backup_06-10-2019.json",
+		"/Users/ransamet/Documents/ben_lpass.csv",
+		"/Users/ransamet/buzzsys/BS_0.002/.gitignore",
+		"/Users/ransamet/buzzsys/BS_0.002/db/migrate/20190425121506_add_ipaddress_to_site.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/app/helpers/application_helper.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/db/migrate/20190412101215_add_currency_to_site.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/README.md",
+		"/Users/ransamet/buzzsys/BS_0.002/app/admin/admin_users.rb",
+		"/Users/ransamet/buzzsys/BS_0.002/config/routes.rb",
+		"/tmp/subl stdin PpD27o.txt",
+		"/Users/ransamet/buzzsys/buzzSys_v0.1/config/environments/development.rb",
+		"/Users/ransamet/buzzsys/buzzSys_v0.1/config/routes.rb",
+		"/Users/ransamet/buzzsys/buzzSys_v0.1/app/views/layouts/application.html.erb",
+		"/Users/ransamet/buzzsys/buzzSys_v0.1/Gemfile.lock",
+		"/Library/Ruby/Gems/2.3.0/gems/link-checker-0.7.2/lib/link_checker.rb",
+		"/Users/ransamet/buzzsys/toy_app/vendor/bundle/ruby/2.3.0/gems/addressable-2.6.0/spec/addressable/uri_spec.rb",
+		"/Users/ransamet/buzzsys/toy_app/Gemfile",
+		"/Users/ransamet/Diary/questions__udi_01032019",
+		"/Users/ransamet/Diary/questions__udi_29112018"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aboutme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 59,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "oeb.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "json"
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "oeb.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
