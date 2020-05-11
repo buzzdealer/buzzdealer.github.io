@@ -160,6 +160,10 @@ img {
   .header-section{
     padding-top: 50px;
   }
+
+  .page-heading{
+    margin-top: -70px;
+  }
 }
 .navbar-custom .navbar-brand-logo {
   -webkit-transition: padding .5s ease-in-out;
