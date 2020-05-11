@@ -16,7 +16,7 @@ Revisions should be required for tenants as well, even though insurers will be f
 
 Construction agreements, lease contracts, purchase and sale agreements, as well as many other contracts can include a force majeure clause. It will excuse a party’s performance due to unforeseen circumstances (labeled as “Acts of God”). I know that many of you have already included such a clause in your contracts, but given the current conditions, it will be better to include a specific reference to the COVID-19 pandemic. One of the most important things to do is taking precautions, even though the negative events might not happen at all. Be prepared and the chances of you been taken by surprise by anything are severely reduced. 
 
-###**Focus on cash-flow generating investments**
+### **Focus on cash-flow generating investments**
 
 Now is the time when very expensive real estate drops in value and it won’t be appropriate to invest there, given that the profit margins will improve in a few months. In case you want to put your money to work, buy-to-rent would be the most reliable approach, since it will provide you with monthly cash-flow to cover some expenses. It doesn’t have to be an expensive property since even cheaper ones can generate returns. 
 However, take into account that if you want to rent to individuals, choosing the people wisely will be critical. Unemployment will rise for a few months, so make sure you rent to someone that has a stable job or enough capital to pay the rent even though the income will drop in the short-term. 
