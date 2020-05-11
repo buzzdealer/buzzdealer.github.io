@@ -1,6 +1,6 @@
 ---
 title: European Real Estate Investment Opportunities in 2019
-date: 2020-05-11 02:35:00 -11:00
+date: 2019-11-13 02:35:00 -11:00
 ---
 
 Since the 2008 financial crisis, the European Continent had to face serious challenges on the economic, social, and financial side, but despite many pessimistic expectations, the real estate market continues to be among the most popular in the world. Supported by a middle class with high purchasing power, as well as many regions with touristic potential, opportunities had arisen throughout 2019.
