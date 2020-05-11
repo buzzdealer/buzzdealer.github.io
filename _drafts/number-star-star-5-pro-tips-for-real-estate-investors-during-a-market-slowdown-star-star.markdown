@@ -5,7 +5,7 @@ date: 2020-04-11 00:02:00 -11:00
 
 Difficult times require us to take well-thought decisions and the COVID-19 outbreak is one of those risks that create a lot of uncertainties in the short-term. If you would like to know what you should do in the months ahead for real estate investing, my name is Ofir Bar and I will provide 5 useful tips that will certainly alleviate most of the risks. 
 
-!(https://read.cash/@Cain/some-readcash-tips-for-new-people-8892bd8a)
+![](https://read.cash/@Cain/some-readcash-tips-for-new-people-8892bd8a)
 
 ### **Rely on insurance policies**
 
