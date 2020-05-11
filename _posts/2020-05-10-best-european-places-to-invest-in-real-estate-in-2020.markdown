@@ -5,6 +5,8 @@ date: 2020-05-10 05:30:00 -11:00
 
 If you believe that 2020 will be another exciting year for real estate investing, then you must do your homework from an early stage and find out what could be the best possible places to invest. I’m Ofir Eyal Bar and today I would like to talk about some of the top European real estate places that from my point of view, still have a high potential for growth this year. Please be aware that all the locations mentioned in the article had been found based on personal research and nothing written here can guarantee future real estate performance. Without further due, let jump into four of the top European spots to monitor this year.
 
+![eurpoean real estate 2020.jpg](/uploads/eurpoean%20real%20estate%202020.jpg)
+
 ## European real estate in 2020
 
 ### Georgia
