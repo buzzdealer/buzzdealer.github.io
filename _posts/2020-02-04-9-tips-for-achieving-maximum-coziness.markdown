@@ -19,7 +19,7 @@ Candles are a key ingredient to a supremely comfortable atmosphere. Not only do 
 
 ### 2. Bake something
 
-Cake is central to the **cozy experience**. But it doesn’t just begin when you eat the cake (or cookies or pie) – it begins when you buy the ingredients.
+Cake is central to the cozy experience. But it doesn’t just begin when you eat the cake (or cookies or pie) – it begins when you buy the ingredients.
 Go to your favorite market, choose your ingredients carefully, and mix them with great care, taking your time to enjoy the task at hand. It’s just a bonus that your baking will flood your space with delicious smells – and taste good too.
 
 **Tip:** Call up a friend or family member whose recipes deserve appreciation, and ask if they could show you how to work out their spectacular skills. Baking together makes for a lovely afternoon, no matter the weather!
