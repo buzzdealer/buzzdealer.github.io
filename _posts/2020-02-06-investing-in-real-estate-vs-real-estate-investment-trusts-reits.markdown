@@ -1,6 +1,6 @@
 ---
 title: Investing in Real Estate vs. Real Estate Investment Trusts (REITs)
-date: 2020-05-11 02:13:00 -11:00
+date: 2020-02-06 02:13:00 -11:00
 ---
 
 Since an increasing number of investors are becoming aware of the need to have a more diversified portfolio, real estate continues to be one of the “safe-haven” assets. When it comes to investing in real estate, there are two main options, namely traditional real estate ownership or Real Estate Investment Trusts (REITs).
