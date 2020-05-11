@@ -7,7 +7,7 @@
 	],
     "settings":{
         "tab_size": 28,
-        "font_size": 15,
+        "font_size": 12,
         "Jekyll":
         {
             "jekyll_posts_path": "/Users/ransamet/Sites/buzzdealer.github.io/_posts",
