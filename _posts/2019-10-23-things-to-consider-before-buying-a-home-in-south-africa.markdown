@@ -9,7 +9,7 @@ Buying a home will be one of the most significant investments of your life, and 
 
 ### 1. Examine your finances
 
-Two things must be clear from the start: what you can afford and what are your expectancies. If you’ve been a responsible person, it’s very likely that you started to work on the budget for the new house several years ago. In case you’re not in this category, a mortgage is the second option, but it should be made in a rational way and based on the income you get at the present time. 
+Two things must be clear from the start: what you can afford and what are your expectancies. If you’ve been a responsible person, it’s very likely that you started to work on the budget for the new house several years ago. In case you’re not in this category, a [mortgage](https://content.accesscommercialfinance.com/blog/advantages-of-a-commercial-mortgage) is the second option, but it should be made in a rational way and based on the income you get at the present time. 
 You must also make sure that you have a clean credit record, so a bank will be convinced that it can take the risk and offer you the mortgage. Since you’ll be paying back the loan for 30 years, this must be a well-meditated decision.
 
 ### 2.Talk with a real estate agent
@@ -19,7 +19,7 @@ Most likely, he has in-depth knowledge of the housing market and a good ability 
 
 ### 3.Find your ideal home
 
-After you’ve managed to find the right person, with his assistance you should start to look for your ideal home. He doesn’t know what are your priorities, so you should already have a list of the most important characteristics and requirements (location, schools for your kids, recreational areas, infrastructure, etc.)
+After you’ve managed to find the right person, with his assistance you should start to look for [your ideal home](https://www.your-move.co.uk/buy/guides/finding-your-ideal-home). He doesn’t know what are your priorities, so you should already have a list of the most important characteristics and requirements (location, schools for your kids, recreational areas, infrastructure, etc.)
 
 ### 4.Arrange a home inspection
 
