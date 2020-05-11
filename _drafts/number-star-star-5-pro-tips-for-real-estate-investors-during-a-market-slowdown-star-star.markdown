@@ -7,7 +7,7 @@ Difficult times require us to take well-thought decisions and the COVID-19 outbr
 
 !(https://read.cash/@Cain/some-readcash-tips-for-new-people-8892bd8a)
 
-###**Rely on insurance policies**
+#3**Rely on insurance policies**
 
 Now it’s the right time to renew your insurance policies and if it’s possible, make changes to provide compensations for [financial losses determined by the COVID-19 pandemic](https://expertinvestoreurope.com/real-estate-could-see-limited-impact-from-crisis/). Although standard insurance policies for real estate companies and property owners don’t provide business interruption coverage for losses related to a pandemic, some non-standard forms may include such coverage. 
 Revisions should be required for tenants as well, even though insurers will be faced with a wave of upcoming claims. If you own real estate in an area that’s not severely affected by the outbreak, making insurance changes won’t be too hard. If you’ve managed to make the changes, it will be critical to take into account all requirements the policy asks, including providing timely notice, so you will manage to use the insurance, in case any unwanted situation will occur. 
