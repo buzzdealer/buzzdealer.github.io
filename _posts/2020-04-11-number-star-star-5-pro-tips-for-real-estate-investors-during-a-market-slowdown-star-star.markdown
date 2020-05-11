@@ -5,6 +5,8 @@ date: 2020-04-11 00:02:00 -11:00
 
 Difficult times require us to take well-thought decisions and the COVID-19 outbreak is one of those risks that create a lot of uncertainties in the short-term. If you would like to know what you should do in the months ahead for real estate investing, my name is Ofir Bar and I will provide 5 useful tips that will certainly alleviate most of the risks. 
 
+![111111.jpg](/uploads/111111.jpg)
+
 ### **Rely on insurance policies**
 
 Now it’s the right time to renew your insurance policies and if it’s possible, make changes to provide compensations for [financial losses determined by the COVID-19 pandemic](https://expertinvestoreurope.com/real-estate-could-see-limited-impact-from-crisis/). Although standard insurance policies for real estate companies and property owners don’t provide business interruption coverage for losses related to a pandemic, some non-standard forms may include such coverage. 
