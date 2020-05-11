@@ -34,7 +34,7 @@ Plush throws, sheepskins and cushions make for a much more [inviting space](http
 
 Do you tend to hide from your friends as soon as the days get short? Fight the urge to retreat, and invite your nearest and dearest (or those you want to know better) over to share your coziness. Bonus: Ask them to bring a bottle of your favorite seasonal beverage!
 
-**Tip:** Low on funds but want to host a dinner party? Ask everyone to bring an ingredient for soup, and make it together, or just plan a casual potluck.
+**Tip**: Low on funds but want to host a dinner party? Ask everyone to bring an ingredient for soup, and make it together, or just plan a casual potluck.
 
 ### 5. Get out the board games
 
