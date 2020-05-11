@@ -158,11 +158,11 @@ img {
       font-size: 1.125rem;
     }
   .header-section{
-    padding-top: 50px;
+    padding-top: 20px;
   }
 
   .page-heading{
-    margin-top: -70px;
+   /* margin-top: -70px;*/
   }
 }
 .navbar-custom .navbar-brand-logo {
