@@ -26,8 +26,6 @@ description: Real Estate With Ofir Eyal Bar
 author: Ofir Eyal Bar
 navbar-links:
   About Me: "/aboutme"
-  Blog: "/blog"
-  News: "/"
 avatar: "/uploads/5.png"
 round-avatar: true
 social-network-links:
