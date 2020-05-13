@@ -1,6 +1,6 @@
 ---
 title: So who are you, Ofir Eyal Bar?
-subtitle: 'So who are you, Ofir Eyal Bar?'
+subtitle: So who are you, Ofir Eyal Bar?
 layout: page
 ---
 
