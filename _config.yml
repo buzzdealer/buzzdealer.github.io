@@ -41,6 +41,7 @@ share-links-active:
   facebook: true
   linkedin: true
 url-pretty: ofireyalbar.me
+url: 'https://ofireyalbar.me'
 link-tags: true
 excerpt_length: 100
 navbar-col: "#F5F5F5"
