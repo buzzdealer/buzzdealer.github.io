@@ -24,6 +24,7 @@ defaults:
     show-avatar: true
 description: Real Estate With Ofir Eyal Bar
 author: Ofir Eyal Bar
+gtag: UA-167145866-2
 navbar-links:
   About Me: "/aboutme"
 avatar: "/uploads/5.png"
