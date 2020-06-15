@@ -1,7 +1,7 @@
 ---
 title: Is It the Right Time to Invest in Real Estate?
 date: 2020-06-02 21:19:00 -11:00
-share-img: /uploads/HOUSE11.jpg
+share-img: "/uploads/HOUSE11.jpg"
 ---
 
 Economies are starting to reopen now that new COVID19 cases seem to have decreased and stabilized. We’re still not sure if the worst is behind us, but it’s obvious social distancing measures and restrictions had prevented a much bigger tragedy. Economic indicators in Asia, Europe, and North America are starting to signal a bottoming, but does this mean it is the right time to invest in real estate? I’m [Ofir Bar](https://twitter.com/ofireyalbar) and today I want to use my knowledge in the industry to analyze both positive and negative factors for real estate as we move forward. 
