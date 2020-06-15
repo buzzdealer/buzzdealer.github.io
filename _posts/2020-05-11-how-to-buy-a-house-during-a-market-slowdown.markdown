@@ -1,7 +1,7 @@
 ---
 title: How to Buy a House During a Market Slowdown?
 date: 2020-05-11 03:04:00 -11:00
-share-img: /uploads/buying%20a%20house%20in%202020.jpg
+share-img: "/uploads/buying%20a%20house%20in%202020.jpg"
 ---
 
 Since we’re now sure 2020 will mark the first economic downturn in more than a decade, our only choice is to adjust how we spend money, and that applies to buying a home as well. I’m Ofir Bar and throughout the years I’ve seen the real estate market moving up and down. I’m active in markets like South Africa, Germany, and the Netherland, and if I’ve noticed something important is that people all around the world are eager for greater [financial education](https://medium.com/@ofireyalbar/5-things-beginner-real-estate-investors-should-have-in-mind-fb3bc0e31bf7). 
