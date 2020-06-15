@@ -251,23 +251,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "aboutme.md",
-			"settings":
-			{
-				"buffer_size": 422,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "oeb.sublime-project",
-			"settings":
-			{
-				"buffer_size": 490,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -281,12 +264,12 @@
 		"selected_items":
 		[
 			[
-				"prefe",
-				"Preferences: Settings"
-			],
-			[
 				"jek",
 				"Jekyll: New post"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
 			],
 			[
 				"sett",
@@ -345,10 +328,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ransamet/Sites/buzzdealer.github.io"
+		"/Users/ransamet/Sites/buzzdealer.github.io",
+		"/Users/ransamet/Sites/buzzdealer.github.io/_posts"
 	],
 	"file_history":
 	[
+		"/Users/ransamet/Sites/buzzdealer.github.io/aboutme.md",
+		"/Users/ransamet/Sites/buzzdealer.github.io/oeb.sublime-project",
+		"/Users/ransamet/Sites/buzzdealer.github.io/_posts/2020-05-11-test.markdown",
+		"/Users/ransamet/Sites/buzzdealer.github.io/404.html",
 		"/Users/ransamet/Sites/buzzdealer.github.io/.sublime-project",
 		"/Users/ransamet/Sites/buzzdealer.github.io/assets/css/main.css",
 		"/Users/ransamet/buzzsys/BS_0.002/app/models/site.rb",
@@ -472,11 +460,7 @@
 		"/Users/ransamet/buzzsys/buzzSys_v0.1/config/routes.rb",
 		"/Users/ransamet/buzzsys/buzzSys_v0.1/app/views/layouts/application.html.erb",
 		"/Users/ransamet/buzzsys/buzzSys_v0.1/Gemfile.lock",
-		"/Library/Ruby/Gems/2.3.0/gems/link-checker-0.7.2/lib/link_checker.rb",
-		"/Users/ransamet/buzzsys/toy_app/vendor/bundle/ruby/2.3.0/gems/addressable-2.6.0/spec/addressable/uri_spec.rb",
-		"/Users/ransamet/buzzsys/toy_app/Gemfile",
-		"/Users/ransamet/Diary/questions__udi_01032019",
-		"/Users/ransamet/Diary/questions__udi_29112018"
+		"/Library/Ruby/Gems/2.3.0/gems/link-checker-0.7.2/lib/link_checker.rb"
 	],
 	"find":
 	{
@@ -511,84 +495,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "aboutme.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 422,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 59,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "oeb.sublime-project",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 490,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "json"
-							},
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

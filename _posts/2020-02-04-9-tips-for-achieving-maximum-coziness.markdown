@@ -1,6 +1,7 @@
 ---
 title: 9 Tips for Achieving Maximum Coziness
 date: 2020-02-04 02:50:00 -11:00
+share-img: 
 ---
 
 As winter plods along, you may wish you could just hibernate until spring. But there is, indeed, joy to be found in the quieter months of the year.

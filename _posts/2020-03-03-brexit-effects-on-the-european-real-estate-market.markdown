@@ -1,6 +1,7 @@
 ---
 title: Brexit Effects on the European Real Estate Market
 date: 2020-03-03 01:57:00 -11:00
+share-img: 
 ---
 
 Following the UK’s decision to leave the European Union back in 2016, European politics had taken an unexpected turn, confirming divisions among country members existed, despite the apparent image of unity. This is a situation that could reshape the economic picture, both in a positive or negative way, meaning we must keep track of the latest developments and act accordingly. I’m [Ofir Eyal Bar](https://www.linkedin.com/in/ofir-eyal-bar-074307181/?originalSubdomain=uk), a real estate investor and I would like to talk briefly about Brexit and how it could impact the real estate market in the months ahead.

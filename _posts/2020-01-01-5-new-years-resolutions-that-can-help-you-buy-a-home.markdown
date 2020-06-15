@@ -1,6 +1,7 @@
 ---
 title: 5 New Year’s Resolutions That Can Help You Buy a Home
 date: 2020-01-01 02:21:00 -11:00
+share-img: 
 ---
 
 Thinking of buying a home this year? We compiled five New Year’s resolutions that can help you keep your financial resume in tiptop shape.

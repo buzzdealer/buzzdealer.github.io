@@ -1,6 +1,7 @@
 ---
 title: Ways to Get Started and Invest in the South African Real Estate
 date: 2019-12-12 02:28:00 -11:00
+share-img: 
 ---
 
 When it comes to South Africa, people think about some of the most amazing cities like Cape Town, Johannesburg, and Pretoria, but what’s sometimes not well understood is the huge real estate potential there. The country witnessed persistent growth for years and given that the urban middle class continues to expand, the demand for new houses, shopping malls, and office blocks is also rising. Because of that, it would be appropriate to provide a few insights into the real estate industry and what people must consider before getting involved.
