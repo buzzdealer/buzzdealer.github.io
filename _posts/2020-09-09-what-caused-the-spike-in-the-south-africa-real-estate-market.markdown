@@ -13,6 +13,7 @@ Source: https://www.privateproperty.co.za/neighbourhoods/cape-town-city-bowl/59
 **South Africa Reserve Bank cutting interest rates**
 
 One of the main drivers of the outperformance had been the actions taken by the South Africa Reserve Bank. Cutting its benchmark interest by 300 basis points in 2020 alone had been a major benefit from mortgage interest rates. The costs to get a home loan had been reduced and now buying a home, even with a mortgage, is much convenient as compared to paying a monthly rent.
+
 The latest reliable data available comes from July. Seeff Property Group, one of the major players in the local real estate industry, ended the month with the highest sales in the past six years. Buyers benefiting from an exemption of transfer duty, combined with a favorable bank-lending climate is the key to keeping up the pace for a longer recovery.
 
 
