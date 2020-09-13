@@ -1,7 +1,7 @@
 ---
 title: Things to Consider Before Buying a Home in South Africa
-date: 2019-10-23 02:42:00 -11:00
-share-img: "/uploads/buying%20home%20in%20south%20africa.jpg"
+date: 2019-10-23 02:42:00 -1100
+share-img: /uploads/buying%20home%20in%20south%20africa.jpg
 ---
 
 Buying a home will be one of the most significant investments of your life, and because of that, it requires an extensive process. The ultimate goal is to feel happy inside your house, but some people don’t manage to understand that in order to reach that level, a few things must be considered before actually buying the house. These things apply also for the South African real estate market, so without further a due, let’s talk about them.
@@ -25,4 +25,3 @@ After you’ve managed to find the right person, with his assistance you should 
 ### 4.Arrange a home inspection
 
 You’re close to the end of the process and you’ve found the right house. Don’t rush and arrange a home inspection, if possible, right after heavy rain. See with your own eyes whether the house does not have any major imperfections and it complies with the pictures you’ve seen. Some the sellers tend to hide some of the unwanted things and by taking a close look yourself, this will be avoided. 
-
