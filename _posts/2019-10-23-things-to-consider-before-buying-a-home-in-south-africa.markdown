@@ -25,4 +25,3 @@ After you’ve managed to find the right person, with his assistance you should 
 ### 4.Arrange a home inspection
 
 You’re close to the end of the process and you’ve found the right house. Don’t rush and arrange a home inspection, if possible, right after heavy rain. See with your own eyes whether the house does not have any major imperfections and it complies with the pictures you’ve seen. Some the sellers tend to hide some of the unwanted things and by taking a close look yourself, this will be avoided. 
-
