@@ -5,10 +5,9 @@ date: 2020-09-09 05:23:00 -11:00
 
 Even though South Africa had been severely hit by the COVID-19 pandemic, a surprise uptick in the real estate market had been signaled recently. The actual numbers are above the consensus estimates, with several factors supporting such a development. As always, I am [Ofir Eyal Bar](https://medium.com/@ofireyalbar), and today I will use my insights into the South African real estate market to better understand why we see these positive developments.
 
-![3.png](/uploads/3.png)
+![South Africa real estate](/uploads/3.png)
 
-Alt-text: South Africa real estate
-Source: https://www.privateproperty.co.za/neighbourhoods/cape-town-city-bowl/59
+<small>Source: https://www.privateproperty.co.za/neighbourhoods/cape-town-city-bowl/59</small>
 
 **South Africa Reserve Bank cutting interest rates**
 
