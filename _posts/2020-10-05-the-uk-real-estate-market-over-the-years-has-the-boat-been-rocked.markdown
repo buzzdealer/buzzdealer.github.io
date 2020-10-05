@@ -9,6 +9,7 @@ It is pretty fair to say by now that real estate today is nothing like it was ni
 
 ![1.jpg](/uploads/1.jpg)
 Source: https://pixabay.com/photos/farmhouse-derelict-ireland-nature-272596/
+
 Things seemed to have been especially rocky in Great Britain and Northern Ireland for a few good reasons, but the bottom line is that the United Kingdom seems to have overall kept its steady sailing. True, it may seem strange and, keeping in mind the much criticism Boris Johnson’s approach to the virus has dragged, surprising to commend the real estate market there for its resilience. A quick look at the past decade in the UK can help explain things better.
 
 **The forgotten crisis**
@@ -22,7 +23,7 @@ Everyone’s focused on the consequences of the pandemic but we seem to have for
 That leads to another good point. We can’t really talk about the UK as an organic entity, keeping in mind the cultural/economical/social difference between the four entities that it is made up of. While business was blooming in England, Northern Ireland was still fighting off the bad reputation that came along with decades of war and terror, for example. That surely had an impact on how real estate was handled across the country, with big cities in peaceful areas having an obvious advantage over rural, conflict-zone towns.
 
 
-**The Brexit **
+**The Brexit**
 
 Definitely, the most defining moment of the past decade for the Brits is their decision to leave the European Union. Remember, these were rough times financially for the Union to begin with, having needed to cover the debt of member countries gone bankrupt. That made the situation even worse for the UK, since what followed the decision to leave was a few good years of political and economic instability – not exactly the ideal setting for foreign real estate investments. Along with the rate of the pound plummeting, it was unclear at that stage whether investing in UK housing is a good or bad decision. On one hand, low prices are an opportunity. On the other hand, political messes and frequent elections are usually bad news for investors.
 
