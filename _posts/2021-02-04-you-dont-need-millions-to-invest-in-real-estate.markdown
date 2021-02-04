@@ -11,6 +11,7 @@ My name is Ofir Bar, and I’ve been investing in tech start-ups, and real estat
 A real estate investment trust (REIT) is an organized group of investors, putting their money together in order to buy property - usually more than just one apartment or house, rather a building or complex. This trust is formed by companies with the tools and knowledge to buy, manage, maintain, and also sell real estate, while handling and distributing profits. What they don’t have is money on the spot, and that’s why they turn to investors rather than to banks for loans.
 
 ![Picture1.jpg](/uploads/Picture1.jpg)
+
 Source: https://pixabay.com/photos/office-business-meeting-5472251/
 
 The big advantage here is that you don’t need to actually buy a piece of the property, but rather a share of it. In other words, you won’t necessarily own an apartment in the building bought by the REIT, so you don’t need to put out a sum equal to one apartment’s price, but you will get your share of the rent collected from all tenants (according to the number of tenants and the number of investors in the group). 
@@ -25,6 +26,7 @@ However, you must remember that, just like the stock market, there is a risk of 
 **Mortgage**
 
 ![Picture1-5cd571.jpg](/uploads/Picture1-5cd571.jpg)
+
 Source: https://pixabay.com/photos/house-money-euro-calculator-366927/
 
 Just like you can take a mortgage in order to buy a house to live in, you can also do it for a house (or any other type of property) to invest in. It’s basically like making profits off of money you don’t currently possess, with the knowledge that you will be able to return that sum (including interest) and still have a marginal profit for yourself.
@@ -35,4 +37,5 @@ This naturally requires the investment to be attractive on one hand, and the mor
 I, [Ofir Bar](https://ofirbar.com/), believe that you don’t need to have $500K waiting in your bank account in order to invest in real estate. However, you do need to keep in mind that the smaller your investment is, the smaller the profit is probably going to be eventually. It may be a good option for beginner investors in real estate, or for people looking for a small extra income. Good luck!
 
 ![Picture1-e1335e.jpg](/uploads/Picture1-e1335e.jpg)
+
 Source: https://www.pexels.com/photo/building-metal-house-architecture-101808/ 
