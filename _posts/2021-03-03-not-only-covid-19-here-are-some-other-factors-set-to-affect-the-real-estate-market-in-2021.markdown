@@ -4,11 +4,12 @@ title: Not Only COVID-19 - Here Are Some Other Factors, Set to Affect the Real E
 date: 2021-03-03 01:59:00 -11:00
 ---
 
+There was a lot of optimism in the air on December 31st, 2020. For some reason, many people were very hopeful that the Coronavirus is going to disappear this year and, well, so far, that hasn’t happened. The pandemic is going to be a big part of our lives in 2021 as well, and to affect our reality in so many ways - especially financially.
+
 ![Picture1-6d01ac.jpg](/uploads/Picture1-6d01ac.jpg)
 
 Source: https://unsplash.com/photos/kSLNVacFehs
 
-There was a lot of optimism in the air on December 31st, 2020. For some reason, many people were very hopeful that the Coronavirus is going to disappear this year and, well, so far, that hasn’t happened. The pandemic is going to be a big part of our lives in 2021 as well, and to affect our reality in so many ways - especially financially.
 With that in mind, it’s time to look at some more events and circumstances that are going to play a role. My name is Ofir Bar, and I’ve been investing in real estate and startup technologies for over 25 years now. I would like to focus in this post on the things I think are going to influence the global real estate market this year, and hopefully to provide some tips that can help you out, if you’re thinking of investing in this field in the near future.
 
 **New world order**
