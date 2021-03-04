@@ -10,7 +10,7 @@ There was a lot of optimism in the air on December 31st, 2020. For some reason, 
 
 Source: https://unsplash.com/photos/kSLNVacFehs
 
-With that in mind, it’s time to look at some more events and circumstances that are going to play a role. My name is Ofir Bar, and I’ve been investing in real estate and startup technologies for decades now. I would like to focus in this post on the things I think are going to influence the global real estate market this year, and hopefully to provide some tips that can help you out, if you’re thinking of investing in this field in the near future.
+With that in mind, it’s time to look at some more events and circumstances that are going to play a role. My name is Ofir Bar, and I’ve been investing in real estate and startup technologies for over a decade now. I would like to focus in this post on the things I think are going to influence the global real estate market this year, and hopefully to provide some tips that can help you out, if you’re thinking of investing in this field in the near future.
 
 **New world order**
 
