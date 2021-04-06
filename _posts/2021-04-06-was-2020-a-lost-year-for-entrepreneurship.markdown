@@ -1,6 +1,7 @@
 ---
 title: Was 2020 a ‘Lost Year’ for Entrepreneurship?
 date: 2021-04-06 02:38:00 -11:00
+Field name: 
 ---
 
 There’s still much we don’t know about the effects of the ‘year of the pandemic’ on our lives and our futures. This statement is even more relevant financially speaking since the true aftermath of the global economic crisis is yet to be felt. Right now, governments around the world are still using existing and non-existing funds to help markets keep running - but what happens when that strategy runs out of time?
@@ -16,7 +17,7 @@ That raises the question: Was 2020 a ‘lost year’ for anything entrepreneuria
 
 Indeed, the first few months of 2020 had been devastating for startups, as raising capital became an extremely difficult task. Naturally, entrepreneurs rely heavily on equity, loans and investments to turn their ideas into reality, and when that capital becomes scarce, well, that’s when things begin to go downhill. However, if we skip to the end of our story for a moment, 2020 actually ended with [record breaking data regarding startup funding](https://www.bloomberg.com/news/articles/2021-01-13/startup-funding-touches-new-records-amid-pandemic). As a matter of fact, about $130 billion were invested in startups in 2020 – and that’s only in the USA.
 
-Making lemonade out of lemons
+**Making lemonade out of lemons**
 
 ![Picture1-8c637e.jpg](/uploads/Picture1-8c637e.jpg)
 
