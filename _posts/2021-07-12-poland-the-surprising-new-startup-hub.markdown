@@ -24,7 +24,8 @@ Poland boasts a skilled and educated workforce who is just waiting for the right
 
 On top of this, Poland has an outstanding IT and startup ecosystem in place. Krakow and Warsaw are two of the most well-known tech cities in Europe. In fact, [Poland was ranked #3 as the best startup hub in the globe](https://impactcee.com/2017/06/29/poland-ranked-third-best-startup-hub-globe-world-bank/).
 
-[Capture.JPG](/uploads/Capture.JPG)
+![jacek-dylag-SPpsFbCaN2A-unsplash.jpg](/uploads/jacek-dylag-SPpsFbCaN2A-unsplash.jpg)
+https://unsplash.com/s/photos/krakow
 
 ### Low Living Costs
 
@@ -35,7 +36,8 @@ However, that does not mean you are missing out on entertainment. Krakow and War
 ### Endless Access to Investment and Opportunities
 Poland presents one of the best start-up ecosystems in Europe. It has a long-standing relationship with foreign investors, a steady government, efficient IT infrastructure, an educated workforce, and a thriving technology scene. With all of these important pillars in place, the country provides all the resources a business needs, and its cities possess a great future for itself as a start-up country.
 
-[Capture-592cca.JPG](/uploads/Capture-592cca.JPG)
+![kamil-gliwinski-xcPw1-5OHTk-unsplash.jpg](/uploads/kamil-gliwinski-xcPw1-5OHTk-unsplash.jpg)
+https://unsplash.com/photos/xcPw1-5OHTk
 
 Most importantly, the country is striving to remain a low-tax destination and seeks to provide further initiatives to help businesses grow and thrive. Even in spite of this, Poland has not become too heavily influenced by big corporations or bureaucracy—something that many countries have struggled with after the fall of communism.
  
