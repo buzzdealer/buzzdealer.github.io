@@ -1,6 +1,11 @@
 ---
 title: Poland, the Surprising New Startup Hub
 date: 2021-07-12 00:41:00 -11:00
+tags:
+- startups
+- innovation
+- Poland
+- entrepreneurs
 ---
 
 When people think of prominent startup cities, they may think of the Silicon Valley, Hong Kong, or Sydney. While all of those are distinguished cities with fascinating stories, Poland is blazing a trail as the start-up hub of the future. 
